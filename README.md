@@ -1,2 +1,2 @@
-# simple-face-detect
-a tiny project to learn opencv
+## opencv学习笔记
+
